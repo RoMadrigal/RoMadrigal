@@ -1,16 +1,33 @@
-## Hi there 👋
+## Rodrigo Madrigal Montes
 
-<!--
-**RoMadrigal/RoMadrigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineering student** at the *University of Costa Rica (UCR)*  
+💡 Passionate about **PCB design**, **analog circuits design**, and **embedded systems**  
+🔧 Sponsored by [PCBWay](https://www.pcbway.com/) for academic prototyping and PCB manufacturing  
+💻 Experience in **C**, **C++**, **Python** and simulation tools for electronic systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🇪🇸 *Rodrigo Madrigal Montes*
+Apasionado por la electrónica, el diseño de PCBs y el desarrollo de proyectos que combinen hardware y software.
+
+---
+
+## Skills
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-DA291C?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice-003366?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🧰 Currently Exploring
+- PCBs applying power electronics
+- Analog and mixed-signal design  
+- Python for data acquisition and signal processing  
