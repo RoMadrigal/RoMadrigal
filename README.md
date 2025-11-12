@@ -5,12 +5,12 @@
 🔧 Sponsored by [PCBWay](https://www.pcbway.com/) for academic prototyping and PCB manufacturing  
 💻 Experience in **C**, **C++**, **Python** and simulation tools for electronic systems  
 
+<!--
 ---
 
 ### 🇪🇸 *Rodrigo Madrigal Montes*
 Apasionado por la electrónica, el diseño de PCBs y el desarrollo de proyectos que combinen hardware y software.
-
----
+-->
 
 ## Skills
 
@@ -24,8 +24,6 @@ Apasionado por la electrónica, el diseño de PCBs y el desarrollo de proyectos 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
 
 ## 🧰 Currently Exploring
 - PCBs applying power electronics
