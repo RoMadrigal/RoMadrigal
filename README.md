@@ -1,4 +1,4 @@
-## Rodrigo Madrigal Montes <img src="https://flagcdn.com/24x18/cr.png"> <img src="https://flagcdn.com/24x18/es.png"> 
+## Rodrigo Madrigal Montes <img src="https://flagcdn.com/28x21/cr.png"> <img src="https://flagcdn.com/28x21/es.png"> 
 
 🎓 **Electrical Engineering student** at the *University of Costa Rica (UCR)*  
 💡 Passionate about **PCB design**, **analog circuits design**, and **embedded systems**  
