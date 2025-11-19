@@ -22,6 +22,7 @@ Apasionado por la electrónica, el diseño de PCBs y el desarrollo de proyectos 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![PSpice](https://img.shields.io/badge/PSpice-003366?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
 </div>
 
